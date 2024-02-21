@@ -13,9 +13,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am pur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Malware Detection Lab</a>|
-| Endpoint Monitoring and Attack Detection | <a href="https://google.com">Malware Detection Lab</a>|
-| Network Traffic Analysis                        | <a href="https://google.com">SOC Core Skills</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/HermitG1/Malware-Detection-Lab">Malware Detection Lab</a>|
+| Endpoint Monitoring and Attack Detection | <a href="https://github.com/HermitG1/Malware-Detection-Lab">Malware Detection Lab</a>|
+| Network Traffic Analysis                        | SOC Core Skills</a>|
 
 
 ## Tools
@@ -39,11 +39,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am pur
  
 </div>
 
-### Pentesting
-<div>
-    <img src="https://img.shields.io/badge/-Sliver-00A651?&style=for-the-badge&logo=Sliver&logoColor=white" />
- 
-</div>
 
 ## Certifications
 
@@ -52,5 +47,5 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am pur
 </div>
 
 ## Projects
-- Malware Detection Lab
+- <a href="https://github.com/HermitG1/Malware-Detection-Lab">Malware Detection Lab</a>
 - SOC Core Skills
