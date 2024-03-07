@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/wesleydhuff/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am working towards growing a career in IT.  I have previous experience in HRIS and am dedicated to critical analysis and optimization of processes. 
+I consider myself a technical guy who is taking time to grow skills in IT, Coding, Cybersecurity and Penetration Testing.  I enjoy learning coding primarily in Python for purposes of data analytics, analytics and game design.  I also have been learning GML from Game Maker.  I commonly partake in training opportunites and webinars for cybersecurity to network and learn new relevant skills. I also love to partake in home projects commonly using VMs to simulate a multitude of It and Cybersecurity fundamentals. 
 
 ## Objective
 
